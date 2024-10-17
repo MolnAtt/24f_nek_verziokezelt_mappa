@@ -1,3 +1,5 @@
 Halihó
 
-Én egy fájl vagyok. 
+Én egy 
+VERZIÓKEZELT
+fájl vagyok. 
